@@ -12,14 +12,14 @@ public class User   {
 	@Id
     @GeneratedValue(strategy = GenerationType.AUTO)
 	int id;
-	String userName;
-	String age;
-	String password;
-	String roles;
-	boolean  isAccountNonExpired;
-	boolean  isAccountNonLocked;
-	boolean  isCredentialsNonExpired;
-	boolean  isEnabled;
+	String userName="saeed1adm@gmail.com";
+	String age="28";
+	String password="111";
+	String roles="ADMIN";
+	boolean  isAccountNonExpired=true;
+	boolean  isAccountNonLocked=true;
+	boolean  isCredentialsNonExpired=true;
+	boolean  isEnabled=true;
  
 	
 	
