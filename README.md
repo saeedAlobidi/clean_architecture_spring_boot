@@ -36,8 +36,8 @@ c- security Login:
  password:111
  <br />
  
- d- run command <br/><br/><br/>
-<b>./mvnw spring-boot:run</b>  
+ d- run command <br/>
+./mvnw spring-boot:run
 <br/><br/><br/>
  
 <b>e-for more detailed information Contact me:</b> <br />
