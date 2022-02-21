@@ -29,12 +29,14 @@ This is an example of a simple CRUD application for enterprise applications with
     
 	 
 <br/><br/><br/>
-security Login:><br/>
+c- security Login:
+<br/>
  userName:saeed1adm@gmail.com
- ><br/>
+ <br/>
  password:111
  <br />
- <br />
+ 
+ d- run command <br/><br/><br/>
 <b>./mvnw spring-boot:run</b>  
 <br/><br/><br/>
  
